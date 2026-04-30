@@ -11,7 +11,7 @@ The topology contains **5 routers**:
 
 ## Topology
 
-![Topology](docs/topology.jpg)
+![Topology](University Network Topology)
 
 ## IP Addressing Table
 
